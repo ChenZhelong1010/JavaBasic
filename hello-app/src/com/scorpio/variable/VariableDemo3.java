@@ -1,4 +1,4 @@
-package com.itheima.variable;
+package com.scorpio.variable;
 
 /**
  * @ClassName VariableDemo3

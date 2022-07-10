@@ -1,4 +1,4 @@
-package com.itheima.hello;
+package com.scorpio.hello;
 
 public class HelloWorld {
     public static void main(String[] args) {

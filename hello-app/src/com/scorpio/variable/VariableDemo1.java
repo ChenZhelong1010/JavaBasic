@@ -1,4 +1,4 @@
-package com.itheima.variable;
+package com.scorpio.variable;
 
 public class VariableDemo1 {
     public static void main(String[] args) {

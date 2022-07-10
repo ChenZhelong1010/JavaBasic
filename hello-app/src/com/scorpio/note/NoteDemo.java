@@ -1,4 +1,4 @@
-package com.itheima.note;
+package com.scorpio.note;
 
 /**
  * 文档注释：

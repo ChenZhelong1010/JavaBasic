@@ -1,4 +1,4 @@
-package com.itheima;
+package com.scorpio.type;
 
 /**
  * @ClassName TypeDemo1

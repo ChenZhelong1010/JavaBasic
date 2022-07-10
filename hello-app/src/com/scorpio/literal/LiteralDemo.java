@@ -1,4 +1,4 @@
-package com.itheima.literal;
+package com.scorpio.literal;
 
 public class LiteralDemo {
     public static void main(String[] args) {

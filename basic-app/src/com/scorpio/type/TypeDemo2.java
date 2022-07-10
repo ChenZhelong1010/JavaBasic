@@ -1,7 +1,7 @@
-package com.itheima;
+package com.scorpio.type;
 
 /**
- * @ClassName TypeDemo1
+ * @ClassName TypeDemo2
  * @Description TODO
  * @Author Chen Zhelong
  * @Date 2022/7/10 15:24

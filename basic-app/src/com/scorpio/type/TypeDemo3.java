@@ -3,7 +3,7 @@ package com.scorpio.type;
 /**
  * @ClassName TypeDemo3
  * @Description TODO
- * @Author Chen Zhelong
+ * @Author Scorpio
  * @Date 2022/7/10 15:24
  * @Version 1.0
  */

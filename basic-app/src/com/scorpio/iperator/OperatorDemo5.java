@@ -3,7 +3,7 @@ package com.scorpio.iperator;
 /**
  * @ClassName OperatorDemo5
  * @Description TODO
- * @Author Chen Zhelong
+ * @Author Scorpio
  * @Date 2022/7/10 16:15
  * @Version 1.0
  */

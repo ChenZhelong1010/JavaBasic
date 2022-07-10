@@ -3,7 +3,7 @@ package com.scorpio.variable;
 /**
  * @ClassName VariableDemo3
  * @Description TODO
- * @Author Chen Zhelong
+ * @Author Scorpio
  * @Date 2022/5/29 21:53
  * @Version 1.0
  */

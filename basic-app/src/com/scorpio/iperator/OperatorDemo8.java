@@ -20,5 +20,16 @@ public class OperatorDemo8 {
         int b = 30;
         int max = a > b ? a : b;
         System.out.println("较大值为：" + max);
+
+        //案例：定义三个整数，找出最大值并打印。
+        int i = 10;
+        int j = 30;
+        int k = 50;
+
+        //1.找出两个整数的较大值
+        int temp = i > j ? i : j;
+        //2.临时变量与第三个变量的值比较
+        int rsMax = temp > k ? temp : k;
+        System.out.println(rsMax);
     }
 }
